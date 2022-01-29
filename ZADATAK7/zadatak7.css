@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+}
+
+.alignprvo {
+    text-align: center;
+}
+
+.alignlijevo {
+    float: left;
+}
+
+
+.aligndolje {
+    float: unset;
+}
+
+.aligndesno {
+    float: right;
+    margin: 1cm;
+}
